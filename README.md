@@ -4,8 +4,8 @@
 - ✅ Invisible Women by Caroline Criado Perez
 - ✅ Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick
 - ✅ How To Stand Up To A Dictator by Maria Ressa | with [Yugto Bookclub](https://www.instagram.com/yugto.bookclub)
-- 📖 Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans | with [Bookclub in London](https://www.meetup.com/nl-NL/books-reading-discussions-that/events/291720323/)
-- Data Feminism by Catherine D'Ignazio and Lauren Klein
+- ✅ Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans | with [Bookclub in London](https://www.meetup.com/nl-NL/books-reading-discussions-that/events/291720323/)
+- 📖 Data Feminism by Catherine D'Ignazio and Lauren Klein
 - Finding The Mother Tree: Uncovering The Wisdom And Intelligence Of The Forest by Suzanne Simard
 - She’s In CTRL by Anne-Marie Imafidon
 - Girls Just Wanna Have Funds: A Feminist's Guide to Investing by Camilla Falkenberg, Emma Due Bitz and Anna-Sophie Hartvigsen
