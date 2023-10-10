@@ -6,6 +6,7 @@
 - ✅ How To Stand Up To A Dictator by Maria Ressa | with [Yugto Bookclub](https://www.instagram.com/yugto.bookclub)
 - ✅ Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans | with [Bookclub in London](https://www.meetup.com/nl-NL/books-reading-discussions-that/events/291720323/)
 - 📖 97 Things Every Cloud Engineer Should Know by Emily Freeman, Nathen Harvey
+- Learning Microsoft Azure by [Jonah Carrio Andersson](https://jonahandersson.tech/)
 - [Women Leading The Way](https://ausmumpreneur.com/women-leading-the-way)
 - Data Feminism by Catherine D'Ignazio and Lauren Klein
 - Finding The Mother Tree: Uncovering The Wisdom And Intelligence Of The Forest by Suzanne Simard
