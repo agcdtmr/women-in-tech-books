@@ -7,6 +7,7 @@
 - ✅ Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans | with [Bookclub in London](https://www.meetup.com/nl-NL/books-reading-discussions-that/events/291720323/)
 - 📖 97 Things Every Cloud Engineer Should Know by Emily Freeman, Nathen Harvey
 - 𝑵𝒐𝒕 𝑱𝒖𝒔𝒕 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑩𝒐𝒚𝒔: 𝑾𝒉𝒚 𝑾𝒆 𝑵𝒆𝒆𝒅 𝑴𝒐𝒓𝒆 𝑾𝒐𝒎𝒆𝒏 𝒊𝒏 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 (read [article](https://www.linkedin.com/posts/amprather_%3F-%3F%3F%3F%3F%3F%3F-%3F%3F%3F-%3F-%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F-activity-7121883119376322560-93QB/?utm_source=share&utm_medium=member_desktop))
+- https://peopleofcolorintech.com/
 - Learning Microsoft Azure by [Jonah Carrio Andersson](https://jonahandersson.tech/)
 - Engineering Management for the Rest of Us by Sarah Drasner
 - [Women Leading The Way](https://ausmumpreneur.com/women-leading-the-way)
