@@ -29,4 +29,5 @@
 - The Programmer's Brain: What every programmer needs to know about cognition by Felienne Hermans | with [Fronteers NL](https://www.meetup.com/nl-NL/fronteers-nl/?_cookie-check=MUQTlWm66Q0KGDIN)
 - Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi | with [The UX Bookclub](https://www.meetup.com/nl-NL/theuxbookclub/events/289765717/)
 - Feminist Fight Club: A Survival Manual for a Sexist Workplace by Jessica Bennett
+- https://www.amy-codes.com/
 
