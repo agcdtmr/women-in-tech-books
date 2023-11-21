@@ -1,4 +1,4 @@
-# Tech Books
+# Tech Reads
 
 
 - ✅ Invisible Women by Caroline Criado Perez
