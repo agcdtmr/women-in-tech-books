@@ -1,6 +1,5 @@
 # Tech Reads
 
-
 - ✅ Invisible Women by Caroline Criado Perez
 - ✅ Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick
 - ✅ How To Stand Up To A Dictator by Maria Ressa | with [Yugto Bookclub](https://www.instagram.com/yugto.bookclub)
