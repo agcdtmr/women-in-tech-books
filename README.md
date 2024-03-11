@@ -30,4 +30,4 @@
 - Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi | with [The UX Bookclub](https://www.meetup.com/nl-NL/theuxbookclub/events/289765717/)
 - Feminist Fight Club: A Survival Manual for a Sexist Workplace by Jessica Bennett
 - https://www.amy-codes.com/
-
+- [Docs for Developers – Documentation for Everyone](https://docsfordevelopers.com/)
